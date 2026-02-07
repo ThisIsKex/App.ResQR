@@ -1,0 +1,51 @@
+{
+  "app": {
+    "title": "ResQR",
+    "subtitle": "Emergency QR Generator"
+  },
+  "actionType": {
+    "label": "Action Type",
+    "phone": "Phone",
+    "sms": "SMS",
+    "email": "Email",
+    "url": "URL"
+  },
+  "fields": {
+    "phoneNumber": "Phone Number",
+    "message": "Message",
+    "email": "Email Address",
+    "subject": "Subject",
+    "emailBody": "Message",
+    "url": "URL",
+    "title": "Title",
+    "hint": "Hint Text"
+  },
+  "settings": {
+    "size": "Size",
+    "small": "Small",
+    "medium": "Medium",
+    "large": "Large"
+  },
+  "actions": {
+    "download": "Download",
+    "print": "Print",
+    "downloadPNG": "As PNG",
+    "downloadSVG": "As SVG",
+    "cancel": "Cancel"
+  },
+  "preview": "Preview",
+  "print": {
+    "countPerPage": "QR Codes per Page",
+    "qrCodes": "{count} QR Codes",
+    "tipTitle": "💡 Tip for optimal printing",
+    "tipText": "Disable in print menu:",
+    "tipHeaders": "Headers and footers",
+    "tipBackgrounds": "Background graphics (optional)"
+  },
+  "validation": {
+    "required": "Required field",
+    "invalidEmail": "Invalid email address",
+    "invalidUrl": "Invalid URL",
+    "maxLength": "Maximum {max} characters"
+  }
+}

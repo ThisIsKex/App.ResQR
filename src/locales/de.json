@@ -1,0 +1,51 @@
+{
+  "app": {
+    "title": "ResQR",
+    "subtitle": "Notfall-QR-Generator"
+  },
+  "actionType": {
+    "label": "Aktionstyp",
+    "phone": "Telefon",
+    "sms": "SMS",
+    "email": "E-Mail",
+    "url": "URL"
+  },
+  "fields": {
+    "phoneNumber": "Telefonnummer",
+    "message": "Nachricht",
+    "email": "E-Mail-Adresse",
+    "subject": "Betreff",
+    "emailBody": "Nachricht",
+    "url": "URL",
+    "title": "Titel",
+    "hint": "Hinweistext"
+  },
+  "settings": {
+    "size": "Größe",
+    "small": "Klein",
+    "medium": "Mittel",
+    "large": "Groß"
+  },
+  "actions": {
+    "download": "Herunterladen",
+    "print": "Drucken",
+    "downloadPNG": "Als PNG",
+    "downloadSVG": "Als SVG",
+    "cancel": "Abbrechen"
+  },
+  "preview": "Vorschau",
+  "print": {
+    "countPerPage": "Anzahl QR-Codes pro Seite",
+    "qrCodes": "{count} QR-Codes",
+    "tipTitle": "💡 Tipp für optimalen Druck",
+    "tipText": "Deaktiviere im Druckmenü:",
+    "tipHeaders": "Kopf- und Fußzeilen",
+    "tipBackgrounds": "Hintergrundgrafiken (optional)"
+  },
+  "validation": {
+    "required": "Pflichtfeld",
+    "invalidEmail": "Ungültige E-Mail-Adresse",
+    "invalidUrl": "Ungültige URL",
+    "maxLength": "Maximal {max} Zeichen"
+  }
+}

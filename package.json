@@ -1,0 +1,38 @@
+{
+  "name": "app.resqr",
+  "version": "1.0.0",
+  "description": "Emergency contact information accessible via QR code - because every second counts",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThisIsKex/App.ResQR.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThisIsKex/App.ResQR/issues"
+  },
+  "homepage": "https://github.com/ThisIsKex/App.ResQR#readme",
+  "dependencies": {
+    "@mdi/font": "^7.4.47",
+    "@vitejs/plugin-vue": "^6.0.3",
+    "qrcode": "^1.5.4",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1",
+    "vue": "^3.5.27",
+    "vue-i18n": "^9.14.5",
+    "vue-tsc": "^3.2.3",
+    "vuetify": "^3.11.7"
+  },
+  "devDependencies": {
+    "@types/qrcode": "^1.5.6",
+    "vite-plugin-vuetify": "^2.1.3"
+  }
+}
